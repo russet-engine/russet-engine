@@ -1,6 +1,10 @@
 [package]
 name = "russet-engine"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust-powered rendering engine inspired by autumnal landscapes."
+authors = ["Jose russet.engine.dev@gmail.com"]
+license = "MIT OR Apache-2.0" # Ejemplo de licencia dual
+repository = "https://github.com/russet-engine/russet-engine"
+edition = "2021"
 
 [dependencies]
